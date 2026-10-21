@@ -4,8 +4,160 @@
     <title>POLITICO Pro Articles</title>
     <link>https://pro.politico.eu/</link>
     <description>Articles collected from POLITICO Pro metadata</description>
-    <lastBuildDate>Wed, 21 Oct 2026 11:12:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 19:06:52 +0000</lastBuildDate>
     <language>en</language>
+    <item>
+      <title>London Playbook PM: Gassed about how it’s landed</title>
+      <link>https://pro.politico.eu/news/226524</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226524</guid>
+      <description>21 Oct 2026 - By Emilio Casalicchio</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Le coût des ex-Premiers ministres a baissé de 500 000 euros</title>
+      <link>https://pro.politico.eu/news/226523</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226523</guid>
+      <description>21 Oct 2026 - Pro Article - By Jason Wiels, Paul de Villepin, Alexandre Léchenet</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/21/GettyImages-2169679140-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>US, allies warn of critical vulnerabilities in programming underlying 70% of the internet</title>
+      <link>https://pro.politico.eu/news/226522</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226522</guid>
+      <description>21 Oct 2026 - Pro Article - By Maggie Miller, Sam Clark</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>EU countries agree on digital omnibus</title>
+      <link>https://pro.politico.eu/news/226521</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226521</guid>
+      <description>21 Oct 2026 - Pro Alert - By Ellen O'Regan</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Perquisitions au Parlement européen dans une enquête visant l’ancien groupe du RN</title>
+      <link>https://pro.politico.eu/news/226520</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226520</guid>
+      <description>21 Oct 2026 - By Max Griera</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/21/GettyImages-2228859019-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Water sector to wait until 2027 for full details of Burnham’s overhaul</title>
+      <link>https://pro.politico.eu/news/226519</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226519</guid>
+      <description>21 Oct 2026 - By Dan Bloom</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/21/burnham-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Local lawmakers threaten Merz’s tenuous grip on power</title>
+      <link>https://pro.politico.eu/news/226517</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226517</guid>
+      <description>21 Oct 2026 - By James Angelos</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>EPP pushes to extend delay of methane rules to 3 years, possibly longer</title>
+      <link>https://pro.politico.eu/news/226516</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226516</guid>
+      <description>21 Oct 2026 - Pro Alert - By Ben Munster</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Prosecutor searches far-right group offices in EU Parliament</title>
+      <link>https://pro.politico.eu/news/226515</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226515</guid>
+      <description>21 Oct 2026 - By Max Griera</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/21/GettyImages-2228859019-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Publishers want Brussels and London to stop Meta’s new AI terms</title>
+      <link>https://pro.politico.eu/news/226514</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226514</guid>
+      <description>21 Oct 2026 - Pro Article - By Jacob Parry, Eliza Gkritsi</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/21/GettyImages-2256677765-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>EU cyber agencies urgently warn of threat to digital ‘building block’</title>
+      <link>https://pro.politico.eu/news/226513</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226513</guid>
+      <description>21 Oct 2026 - Pro Alert - By Sam Clark</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Von der Leyens Pläne gegen Chinas wirtschaftlichen Druck</title>
+      <link>https://pro.politico.eu/news/226512</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226512</guid>
+      <description>21 Oct 2026 - Pro Newsletter - By Ferdinand Knapp</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Member countries, Parliament strike deal to control EU carbon price spikes</title>
+      <link>https://pro.politico.eu/news/226511</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226511</guid>
+      <description>21 Oct 2026 - Pro Alert - By Ben Makuch</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Document: Parliament pushes for fewer restrictions on phone roaming across Europe</title>
+      <link>https://pro.politico.eu/news/226510</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226510</guid>
+      <description>21 Oct 2026 - Pro Article - By Mathieu Pollet</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/21/GettyImages-2300614242-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Witkoff to Putin: ‘You are a humanitarian … I salute that’</title>
+      <link>https://pro.politico.eu/news/226509</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226509</guid>
+      <description>21 Oct 2026 - By Paul Dallison</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/21/GettyImages-2300714596-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Helsing to build long-range missiles as Germany builds its arsenal</title>
+      <link>https://pro.politico.eu/news/226508</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226508</guid>
+      <description>21 Oct 2026 - Pro Article - By Chris Lunday</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/21/GettyImages-2259022353.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Russia releases US citizen Stephen Hubbard from prison</title>
+      <link>https://pro.politico.eu/news/226507</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226507</guid>
+      <description>21 Oct 2026 - By Daria Zakharova</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://politico.com/dims4/default/resize/1316/quality/90/format/webp?url=https://static.politico.com/38/cf92d78e4c4e56/b97f615cea0bcc96-6000x4000.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Macron slams ‘stupid’ comments after Trump pins French riots on immigration</title>
+      <link>https://pro.politico.eu/news/226506</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226506</guid>
+      <description>21 Oct 2026 - By Victor Goury-Laffont</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/21/GettyImages-2281140869-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Spanish left-wing leader accuses Trump of denying her travel visa to Puerto Rico</title>
+      <link>https://pro.politico.eu/news/226505</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226505</guid>
+      <description>21 Oct 2026 - By Aitor Hernández-Morales</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/21/Colau-Gaza-scaled.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Suspicious drones spotted flying over French military sites</title>
       <link>https://pro.politico.eu/news/226504</link>
