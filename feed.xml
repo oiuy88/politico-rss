@@ -6,8 +6,44 @@
     <title>POLITICO Pro Articles</title>
     <link>https://pro.politico.eu/</link>
     <description>Articles collected from POLITICO Pro metadata</description>
-    <lastBuildDate>Thu, 22 Oct 2026 08:40:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 10:00:20 +0000</lastBuildDate>
     <language>en</language>
+    <item>
+      <title>Hackers launch ‘millions’ of attempts to exploit global PHP cyber flaw</title>
+      <link>https://pro.politico.eu/news/226576</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226576</guid>
+      <description>22 Oct 2026 - Pro Alert - By Sam Clark</description>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Russia launches massive strikes on Ukraine as Trump says peace is closer than ever</title>
+      <link>https://pro.politico.eu/news/226575</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226575</guid>
+      <description>22 Oct 2026 - By Veronika Melkozerova</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Trump-sanctioned ICC wins EU Parliament’s human rights prize</title>
+      <link>https://pro.politico.eu/news/226574</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226574</guid>
+      <description>22 Oct 2026 - Pro Alert - By Max Griera</description>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>EPP threatens to join rebellion against EU farm funding overhaul</title>
+      <link>https://pro.politico.eu/news/226573</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226573</guid>
+      <description>22 Oct 2026 - Pro Alert - By Bartosz Brzeziński, Gerardo Fortuna</description>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Capitals demand EU shows its paperwork on data retention</title>
+      <link>https://pro.politico.eu/news/226572</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226572</guid>
+      <description>22 Oct 2026 - Pro Alert - By Ellen O'Regan</description>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
     <item>
       <title>Time to drill down</title>
       <link>https://pro.politico.eu/news/226571</link>
