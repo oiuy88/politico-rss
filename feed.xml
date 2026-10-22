@@ -6,8 +6,88 @@
     <title>POLITICO Pro Articles</title>
     <link>https://pro.politico.eu/</link>
     <description>Articles collected from POLITICO Pro metadata</description>
-    <lastBuildDate>Thu, 22 Oct 2026 10:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 10:53:15 +0000</lastBuildDate>
     <language>en</language>
+    <item>
+      <title>EU Parliament reaches deal on competitiveness fund</title>
+      <link>https://pro.politico.eu/news/226587</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226587</guid>
+      <description>22 Oct 2026 - Pro Alert - By Aude van den Hove</description>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>UK Treasury eyes another private asset push for pensions</title>
+      <link>https://pro.politico.eu/news/226586</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226586</guid>
+      <description>22 Oct 2026 - Pro Alert - By James Fitzgerald</description>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Healey considers tax boost for British start-ups</title>
+      <link>https://pro.politico.eu/news/226585</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226585</guid>
+      <description>22 Oct 2026 - Pro Alert - By James Fitzgerald</description>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Consulting consultants on consultations</title>
+      <link>https://pro.politico.eu/news/226584</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226584</guid>
+      <description>22 Oct 2026 - By John Johnston</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Parliament votes to delay EU methane rules for three years</title>
+      <link>https://pro.politico.eu/news/226583</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226583</guid>
+      <description>22 Oct 2026 - Pro Alert - By Ben Munster</description>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Macron calls for opening of Hormuz, urges Gaza ceasefire</title>
+      <link>https://pro.politico.eu/news/226582</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226582</guid>
+      <description>22 Oct 2026 - By Daria Zakharova</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://politico.com/dims4/default/resize/1316/quality/90/format/webp?url=https://static.politico.com/8a/debc05fad84858/b57643a84ed44ea5-5500x3893.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Cyprus asks EU to put mutual defense back on the agenda</title>
+      <link>https://pro.politico.eu/news/226581</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226581</guid>
+      <description>22 Oct 2026 - Pro Article - By Sebastian Starcevic</description>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>UK online safety rules don’t do enough to protect kids, says regulator</title>
+      <link>https://pro.politico.eu/news/226580</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226580</guid>
+      <description>22 Oct 2026 - Pro Alert - By Frank Hersey</description>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>French budget bill sets aside €2.3M for Macron’s future offices</title>
+      <link>https://pro.politico.eu/news/226579</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226579</guid>
+      <description>22 Oct 2026 - By Paul de Villepin, Victor Goury-Laffont</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/22/MAcron-elysee-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Hacker starten „Millionen“ von Angriffen, um eine weltweite PHP-Sicherheitslücke auszunutzen</title>
+      <link>https://pro.politico.eu/news/226578</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226578</guid>
+      <description>22 Oct 2026 - Pro Article - By Sam Clark</description>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Britain forced to hike gas imports from Europe, amid energy security fears</title>
+      <link>https://pro.politico.eu/news/226577</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226577</guid>
+      <description>22 Oct 2026 - Pro Article - By Charlie Cooper</description>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/22/Big-freeze-scaled.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Hackers launch ‘millions’ of attempts to exploit global PHP cyber flaw</title>
       <link>https://pro.politico.eu/news/226576</link>
