@@ -1,10 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
+    <ns0:link rel="hub" href="https://websub.superfeedr.com/" />
+    <ns0:link rel="self" href="https://oiuy88.github.io/politico-rss/feed.xml" />
     <title>POLITICO Pro Articles</title>
     <link>https://pro.politico.eu/</link>
     <description>Articles collected from POLITICO Pro metadata</description>
-    <lastBuildDate>Thu, 22 Oct 2026 08:18:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 08:40:14 +0000</lastBuildDate>
     <language>en</language>
     <item>
       <title>Time to drill down</title>
