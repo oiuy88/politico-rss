@@ -6,8 +6,81 @@
     <title>POLITICO Pro Articles</title>
     <link>https://pro.politico.eu/</link>
     <description>Articles collected from POLITICO Pro metadata</description>
-    <lastBuildDate>Fri, 23 Oct 2026 11:35:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 13:00:27 +0000</lastBuildDate>
     <language>en</language>
+    <item>
+      <title>Vos rendez-vous de la semaine du 26 octobre</title>
+      <link>https://pro.politico.eu/news/226687</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226687</guid>
+      <description>23 Oct 2026 - Pro Newsletter - By la rédaction de PARIS INFLUENCE</description>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Reiche: Ab November treffen sich Arbeitsgruppen zur Raffineriestrategie</title>
+      <link>https://pro.politico.eu/news/226686</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226686</guid>
+      <description>23 Oct 2026 - Pro Article - By Frederike Holewik</description>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>EU-Staaten einigen sich auf Position zum 28. Regime</title>
+      <link>https://pro.politico.eu/news/226685</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226685</guid>
+      <description>23 Oct 2026 - Pro Alert - By Jacob Parry</description>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>MMG and Anglo American offer remedies on nickel mines deal</title>
+      <link>https://pro.politico.eu/news/226684</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226684</guid>
+      <description>23 Oct 2026 - Pro Alert - By Francesca Micheletti</description>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Kanzler-Berater Blessing fordert 2500 weniger EU-Beamte</title>
+      <link>https://pro.politico.eu/news/226683</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226683</guid>
+      <description>23 Oct 2026 - Pro Alert - By Gordon Repinski, Tom Schmidtgen</description>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Austria expels four Russian diplomats</title>
+      <link>https://pro.politico.eu/news/226682</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226682</guid>
+      <description>23 Oct 2026 - By Daria Zakharova</description>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://politico.com/dims4/default/resize/1316/quality/90/format/webp?url=https://static.politico.com/03/192fabaaf34650/b3da952f43cfc30b-1816x1211.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Handelsminister beraten über Druck aus China und den USA</title>
+      <link>https://pro.politico.eu/news/226681</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226681</guid>
+      <description>23 Oct 2026 - Pro Newsletter - By Ferdinand Knapp</description>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Satellitenfusion: Streit um Bromo testet Europas Streben nach Unabhängigkeit im All</title>
+      <link>https://pro.politico.eu/news/226680</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226680</guid>
+      <description>23 Oct 2026 - Pro Article - By Francesca Micheletti, Jacopo Barigazzi</description>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/22/GettyImages-2271059694-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>French prosecutors open hate crime probe after deadly drive-by shooting</title>
+      <link>https://pro.politico.eu/news/226679</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226679</guid>
+      <description>23 Oct 2026 - By Victor Goury-Laffont</description>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/23/GettyImages-2301063044.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>EU prosecutor probes EPP over consultant contracts</title>
+      <link>https://pro.politico.eu/news/226678</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226678</guid>
+      <description>23 Oct 2026 - By Max Griera</description>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/23/EPP-2024-scaled.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Drone hits another ship in Black Sea near Romania, killing at least 1 sailor</title>
       <link>https://pro.politico.eu/news/226677</link>
