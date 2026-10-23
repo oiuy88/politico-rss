@@ -6,8 +6,45 @@
     <title>POLITICO Pro Articles</title>
     <link>https://pro.politico.eu/</link>
     <description>Articles collected from POLITICO Pro metadata</description>
-    <lastBuildDate>Fri, 23 Oct 2026 10:24:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 11:35:00 +0000</lastBuildDate>
     <language>en</language>
+    <item>
+      <title>Drone hits another ship in Black Sea near Romania, killing at least 1 sailor</title>
+      <link>https://pro.politico.eu/news/226677</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226677</guid>
+      <description>23 Oct 2026 - By Tim Ross</description>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/23/GettyImages-2279198034-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>EU’s ‘veggie bacon’ ban spells trouble for meat-flavored chips</title>
+      <link>https://pro.politico.eu/news/226676</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226676</guid>
+      <description>23 Oct 2026 - Pro Article - By Ketrin Jochecová</description>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/23/GettyImages-2256854770-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Top ICC official urges EU to act ‘as soon as possible’ on US sanctions</title>
+      <link>https://pro.politico.eu/news/226675</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226675</guid>
+      <description>23 Oct 2026 - Pro Article - By Giovanna Faggionato</description>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/23/20230405-swearing-in-ceremony-icc-registrar-042-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Macron to meet student protesters in a bid to ease tensions in France</title>
+      <link>https://pro.politico.eu/news/226674</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226674</guid>
+      <description>23 Oct 2026 - By Daria Zakharova</description>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://politico.com/dims4/default/resize/1316/quality/90/format/webp?url=https://static.politico.com/25/b7ea797b0645a2/832ebf496ec5f1a5-3434x2289.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>UK extends tariff suspensions on over 250 goods</title>
+      <link>https://pro.politico.eu/news/226673</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226673</guid>
+      <description>23 Oct 2026 - Pro Alert - By Sophie Inge</description>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
     <item>
       <title>Russia, Iran behind recent energy cyberattacks in West, France warns</title>
       <link>https://pro.politico.eu/news/226672</link>
