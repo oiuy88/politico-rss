@@ -6,8 +6,43 @@
     <title>POLITICO Pro Articles</title>
     <link>https://pro.politico.eu/</link>
     <description>Articles collected from POLITICO Pro metadata</description>
-    <lastBuildDate>Thu, 22 Oct 2026 15:23:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 10:05:57 +0000</lastBuildDate>
     <language>en</language>
+    <item>
+      <title>Trade ministers face US, China headaches after Guinness-fueled night</title>
+      <link>https://pro.politico.eu/news/226614</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226614</guid>
+      <description>23 Oct 2026 - Pro Newsletter - By Carlo Martuscelli</description>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>US renews push for EU to soften Big Tech rules</title>
+      <link>https://pro.politico.eu/news/226613</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226613</guid>
+      <description>22 Oct 2026 - Pro Article - By Camille Gijs, Jacob Parry</description>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/22/GettyImages-2295864723-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Länder wollen KI stärker für Sicherheitsbehörden einsetzen</title>
+      <link>https://pro.politico.eu/news/226612</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226612</guid>
+      <description>22 Oct 2026 - Pro Alert - By Larissa Kögl</description>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Šefčovič: EU-Kommission befasst sich mit Trumps Preispolitik bei Arzneimitteln</title>
+      <link>https://pro.politico.eu/news/226611</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226611</guid>
+      <description>22 Oct 2026 - Pro Alert - By Camille Gijs, Emma Pirnay, Dominic Giannini</description>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Unpacking the PHP cyber panic</title>
+      <link>https://pro.politico.eu/news/226610</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226610</guid>
+      <description>23 Oct 2026 - Pro Newsletter - By Ellen O'Regan</description>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
     <item>
       <title>Farage plays down his Trump friendship in Britain — and talks it up to MAGA</title>
       <link>https://pro.politico.eu/news/226609</link>
