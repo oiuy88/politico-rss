@@ -6,8 +6,37 @@
     <title>POLITICO Pro Articles</title>
     <link>https://pro.politico.eu/</link>
     <description>Articles collected from POLITICO Pro metadata</description>
-    <lastBuildDate>Mon, 26 Oct 2026 13:19:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 14:00:20 +0000</lastBuildDate>
     <language>en</language>
+    <item>
+      <title>Belgium postpones terrace smoking ban</title>
+      <link>https://pro.politico.eu/news/226763</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226763</guid>
+      <description>26 Oct 2026 - Pro Alert - By Emma Pirnay</description>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Von der Leyen’s big Commission shake-up moves a step closer</title>
+      <link>https://pro.politico.eu/news/226762</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226762</guid>
+      <description>26 Oct 2026 - By Gerardo Fortuna</description>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/26/GettyImages-2299959980-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Der ewige Streit um das Agrarbudget</title>
+      <link>https://pro.politico.eu/news/226761</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226761</guid>
+      <description>26 Oct 2026 - Pro Newsletter - By Ferdinand Knapp</description>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>EU-Kommission prüft Safeguards für Harze und Kunststoffe</title>
+      <link>https://pro.politico.eu/news/226760</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226760</guid>
+      <description>26 Oct 2026 - Pro Alert - By Koen Verhelst, Carlo Martuscelli</description>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/26/GettyImages-2289472274-1-scaled.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>'Funny': Tusk laughs off report that MAGA is eyeing Orbán for UN top job</title>
       <link>https://pro.politico.eu/news/226759</link>
