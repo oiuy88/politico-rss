@@ -6,8 +6,22 @@
     <title>POLITICO Pro Articles</title>
     <link>https://pro.politico.eu/</link>
     <description>Articles collected from POLITICO Pro metadata</description>
-    <lastBuildDate>Tue, 27 Oct 2026 14:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 14:13:31 +0000</lastBuildDate>
     <language>en</language>
+    <item>
+      <title>Frontex soll soziale Medien auf Hinweise zu illegaler Migration überwachen</title>
+      <link>https://pro.politico.eu/news/226831</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226831</guid>
+      <description>27 Oct 2026 - Pro Article - By Eliza Gkritsi</description>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/27/GettyImages-518299346-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>EIB to sign framework deal with Canada on critical raw materials</title>
+      <link>https://pro.politico.eu/news/226830</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226830</guid>
+      <description>27 Oct 2026 - Pro Alert - By Nicholas Vinocur</description>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
     <item>
       <title>Merz calls for trade deal with Asia-Pacific CPTPP group</title>
       <link>https://pro.politico.eu/news/226829</link>
