@@ -6,8 +6,22 @@
     <title>POLITICO Pro Articles</title>
     <link>https://pro.politico.eu/</link>
     <description>Articles collected from POLITICO Pro metadata</description>
-    <lastBuildDate>Thu, 29 Oct 2026 11:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 11:44:13 +0000</lastBuildDate>
     <language>en</language>
+    <item>
+      <title>Südkorea soll 2027 Partnerland beim Digitalgipfel werden</title>
+      <link>https://pro.politico.eu/news/226967</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226967</guid>
+      <description>29 Oct 2026 - Pro Alert - By Anouk Schlung, Hans von der Burchard, Tom Schmidtgen</description>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Wunsch an Kanzler Merz: Südkorea will Teil des IAA werden</title>
+      <link>https://pro.politico.eu/news/226966</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226966</guid>
+      <description>29 Oct 2026 - Pro Alert - By Hans von der Burchard, Tom Schmidtgen</description>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
     <item>
       <title>Europe’s automotive future: turning strengths into advantages</title>
       <link>https://pro.politico.eu/news/226965</link>
