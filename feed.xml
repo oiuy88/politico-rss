@@ -6,8 +6,37 @@
     <title>POLITICO Pro Articles</title>
     <link>https://pro.politico.eu/</link>
     <description>Articles collected from POLITICO Pro metadata</description>
-    <lastBuildDate>Thu, 29 Oct 2026 11:44:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 12:34:37 +0000</lastBuildDate>
     <language>en</language>
+    <item>
+      <title>Denmark wants to ban ‘turbo chickens’</title>
+      <link>https://pro.politico.eu/news/226971</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226971</guid>
+      <description>29 Oct 2026 - Pro Article - By Agnes Rønberg</description>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/29/14329181-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>EU tells capitals to halt their national social media bans for a year</title>
+      <link>https://pro.politico.eu/news/226970</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226970</guid>
+      <description>29 Oct 2026 - Pro Alert - By Eliza Gkritsi</description>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Another thing to freak out about</title>
+      <link>https://pro.politico.eu/news/226969</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226969</guid>
+      <description>29 Oct 2026 - By John Johnston</description>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Dokument: Bundesrechnungshof warnt vor Risiken bei Auslandskrediten</title>
+      <link>https://pro.politico.eu/news/226968</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226968</guid>
+      <description>29 Oct 2026 - Pro Article - By Maximilian Stascheit, Frida Preuß</description>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
     <item>
       <title>Südkorea soll 2027 Partnerland beim Digitalgipfel werden</title>
       <link>https://pro.politico.eu/news/226967</link>
