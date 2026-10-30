@@ -6,8 +6,376 @@
     <title>POLITICO Pro Articles</title>
     <link>https://pro.politico.eu/</link>
     <description>Articles collected from POLITICO Pro metadata</description>
-    <lastBuildDate>Thu, 29 Oct 2026 20:10:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 08:01:07 +0000</lastBuildDate>
     <language>en</language>
+    <item>
+      <title>Glasgow. Smile!</title>
+      <link>https://pro.politico.eu/news/227034</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227034</guid>
+      <description>30 Oct 2026 - By Sam Blewett</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>John Healey vs your energy bill</title>
+      <link>https://pro.politico.eu/news/227033</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227033</guid>
+      <description>30 Oct 2026 - Pro Newsletter - By Abby Wallace, Charlie Cooper, Nicholas Earl</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Save our skilled persons</title>
+      <link>https://pro.politico.eu/news/227032</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227032</guid>
+      <description>30 Oct 2026 - Pro Newsletter - By James Fitzgerald, Hannah Brenton, Eleanor Myers, Elliot Gulliver-Needham</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Got ID, kid?</title>
+      <link>https://pro.politico.eu/news/227031</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227031</guid>
+      <description>30 Oct 2026 - Pro Newsletter - By Joseph Bambridge</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Two kings</title>
+      <link>https://pro.politico.eu/news/227030</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227030</guid>
+      <description>30 Oct 2026 - Pro Newsletter - By Sophie Inge, Caroline Hug</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Eralps Kampf um die Macht</title>
+      <link>https://pro.politico.eu/news/227029</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227029</guid>
+      <description>30 Oct 2026 - By Maximilian Stascheit</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La relève de Lagarde</title>
+      <link>https://pro.politico.eu/news/227028</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227028</guid>
+      <description>30 Oct 2026 - By Sarah Paillou</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Trump bespricht neue Militäroffensive im Iran</title>
+      <link>https://pro.politico.eu/news/227027</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227027</guid>
+      <description>30 Oct 2026 - Pro Newsletter - By Maximilian Lembke, Julius Brinkmann</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Les vannes sont ouvertes</title>
+      <link>https://pro.politico.eu/news/227026</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227026</guid>
+      <description>30 Oct 2026 - Pro Newsletter - By Nicolas Camut</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Sandoz warns of China pivot over critical medicines list</title>
+      <link>https://pro.politico.eu/news/227025</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227025</guid>
+      <description>30 Oct 2026 - Pro Newsletter - By Dominic Giannini</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Pentagon plans for death of Trump’s record military budget</title>
+      <link>https://pro.politico.eu/news/227024</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227024</guid>
+      <description>30 Oct 2026 - Pro Article - By Mark Satter, Paul McLeary, Audrey Decker</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/30/GettyImages-2302622514-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Europe watches US midterms hoping for pharma threat reprieve</title>
+      <link>https://pro.politico.eu/news/227023</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227023</guid>
+      <description>30 Oct 2026 - Pro Article - By Caroline Hug, Carmen Paun, Emma Pirnay</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/29/GettyImages-2301268276-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Après les émeutes du 17 octobre, les plateformes numériques sous le feu des projecteurs</title>
+      <link>https://pro.politico.eu/news/227022</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227022</guid>
+      <description>30 Oct 2026 - Pro Article - By Émile Marzolf, Klara Durand</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/29/GettyImages-2300271688-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Associate membership row takes EU–Canada summit hostage</title>
+      <link>https://pro.politico.eu/news/227021</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227021</guid>
+      <description>30 Oct 2026 - Pro Newsletter - By Camille Gijs</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>No era un cisne negro. Era un rinoceronte gris</title>
+      <link>https://pro.politico.eu/news/227020</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227020</guid>
+      <description>30 Oct 2026 - By Rafael Méndez</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>5 things Westminster doesn’t know about the UK economy (but probably should)</title>
+      <link>https://pro.politico.eu/news/227019</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227019</guid>
+      <description>30 Oct 2026 - By Sascha O'Sullivan</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/29/GettyImages-2297538033-1-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>How Ireland plans to beat the data center backlash</title>
+      <link>https://pro.politico.eu/news/227018</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227018</guid>
+      <description>30 Oct 2026 - Pro Article - By Ellen O'Regan</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/29/GettyImages-1087691690-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Burnham tries to avoid a slavery reparations ‘disaster’</title>
+      <link>https://pro.politico.eu/news/227017</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227017</guid>
+      <description>30 Oct 2026 - By Dan Bloom</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/29/NateKitch-Politico-Final-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Got beef? When politics meets meat</title>
+      <link>https://pro.politico.eu/news/227016</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227016</guid>
+      <description>30 Oct 2026 - By Paul Dallison</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/29/GettyImages-2158781641-1-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Who’s afraid of whom in Brussels?</title>
+      <link>https://pro.politico.eu/news/227015</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227015</guid>
+      <description>30 Oct 2026 - By POLITICO</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/29/IMG_4407-feat01.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>ESMA boss heads for the exit</title>
+      <link>https://pro.politico.eu/news/227014</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227014</guid>
+      <description>30 Oct 2026 - Pro Newsletter - By Barbara Pianese</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Eastern EU members call for wartime state aid</title>
+      <link>https://pro.politico.eu/news/227013</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227013</guid>
+      <description>30 Oct 2026 - Pro Newsletter - By Francesca Micheletti</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Canada and Europe share challenge of diversifying without antagonizing US and China</title>
+      <link>https://pro.politico.eu/news/227012</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227012</guid>
+      <description>30 Oct 2026 - By Zi-Ann Lum, Ben Makuch</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/30/GettyImages-2302060012-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Der LEAG-Joker in der Kraftwerksstrategie</title>
+      <link>https://pro.politico.eu/news/227011</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227011</guid>
+      <description>30 Oct 2026 - Pro Newsletter - By Joana Lehner</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Canadian love-in bears online-trade fruit</title>
+      <link>https://pro.politico.eu/news/227010</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227010</guid>
+      <description>30 Oct 2026 - By Gerardo Fortuna</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Montenegro, Albania want NATO help against Russian disinfo</title>
+      <link>https://pro.politico.eu/news/227009</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227009</guid>
+      <description>30 Oct 2026 - Pro Newsletter - By Jacopo Barigazzi</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Europe’s coffin-makers warn Chinese imports could be death knell for industry</title>
+      <link>https://pro.politico.eu/news/227008</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227008</guid>
+      <description>29 Oct 2026 - Pro Article - By Gerardo Fortuna</description>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/29/GettyImages-2420492-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>The most expensive election in history</title>
+      <link>https://pro.politico.eu/news/227007</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227007</guid>
+      <description>29 Oct 2026 - By Jack Blanchard</description>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Everything that went wrong with Spain’s high-speed railways</title>
+      <link>https://pro.politico.eu/news/227006</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227006</guid>
+      <description>29 Oct 2026 - Pro Article - By Aitor Hernández-Morales, Martina Sapio</description>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/29/GettyImages-2302045423-1-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Left-wing Berlin mayor candidate’s private Hamas remarks complicate coalition talks</title>
+      <link>https://pro.politico.eu/news/227005</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227005</guid>
+      <description>29 Oct 2026 - By Ferdinand Knapp</description>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/29/GettyImages-2295942279-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>EU governments helpless as energy prices soar to four-year highs</title>
+      <link>https://pro.politico.eu/news/227004</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227004</guid>
+      <description>29 Oct 2026 - Pro Article - By Ben Munster, Elena Giordano</description>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/29/GettyImages-2299472408.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Rising electric car sales complicate auto industry plea for emissions leniency</title>
+      <link>https://pro.politico.eu/news/227003</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227003</guid>
+      <description>29 Oct 2026 - Pro Article - By Jordyn Dahl</description>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/29/GettyImages-2177879750-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Carney frames C$1.6B AI investment as national security imperative</title>
+      <link>https://pro.politico.eu/news/227002</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227002</guid>
+      <description>29 Oct 2026 - Pro Article - By Mike Blanchfield</description>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/29/GettyImages-2302028695-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Keine Probezeit für Gesundheitsapps</title>
+      <link>https://pro.politico.eu/news/227001</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227001</guid>
+      <description>30 Oct 2026 - Pro Newsletter - By Louis Westendarp</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Animal transport overhaul at the risk of collapse</title>
+      <link>https://pro.politico.eu/news/227000</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227000</guid>
+      <description>30 Oct 2026 - Pro Newsletter - By Agnes Rønberg</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Was vom Gipfel 2025 übrig blieb</title>
+      <link>https://pro.politico.eu/news/226999</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226999</guid>
+      <description>30 Oct 2026 - Pro Newsletter - By Larissa Kögl</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>VW defends Audi’s American investment</title>
+      <link>https://pro.politico.eu/news/226998</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226998</guid>
+      <description>30 Oct 2026 - Pro Newsletter - By Martina Sapio</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Toujours pas d’accord sur la PPL Darcos</title>
+      <link>https://pro.politico.eu/news/226997</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226997</guid>
+      <description>30 Oct 2026 - Pro Newsletter - By Émile Marzolf</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Meet the front-runners to replace Lagarde</title>
+      <link>https://pro.politico.eu/news/226996</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226996</guid>
+      <description>29 Oct 2026 - Pro Article - By Johanna Treeck</description>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/29/GettyImages-2301071222-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>A Dutch NIS2 warning on the risks of Big Tech</title>
+      <link>https://pro.politico.eu/news/226995</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226995</guid>
+      <description>30 Oct 2026 - Pro Newsletter - By Sam Clark</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>London Playbook PM: John the axe-ist?</title>
+      <link>https://pro.politico.eu/news/226994</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226994</guid>
+      <description>29 Oct 2026 - By Emilio Casalicchio</description>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>We’ve polled European views on AI data centers</title>
+      <link>https://pro.politico.eu/news/226993</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226993</guid>
+      <description>30 Oct 2026 - Pro Newsletter - By Mathieu Pollet</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Britain’s spy agency doesn’t know where thousands of its memory sticks are</title>
+      <link>https://pro.politico.eu/news/226992</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226992</guid>
+      <description>29 Oct 2026 - Pro Alert - By Mason Boycott-Owen</description>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/29/GettyImages-141004474-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Conflits d’intérêts : le Conseil d’Etat restreint le contrôle préventif de la HATVP</title>
+      <link>https://pro.politico.eu/news/226991</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226991</guid>
+      <description>29 Oct 2026 - Pro Article - By Judith Chetrit</description>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/29/GettyImages-2270270979-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Asiens Sorge vor einer Abschottung der EU</title>
+      <link>https://pro.politico.eu/news/226990</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226990</guid>
+      <description>30 Oct 2026 - Pro Newsletter - By Frida Preuß</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Less than 24 hours to strike a nature deal</title>
+      <link>https://pro.politico.eu/news/226989</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226989</guid>
+      <description>30 Oct 2026 - Pro Newsletter - By Jakob Weizman</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
     <item>
       <title>Warm Homes Plan could be cut by £2.5B</title>
       <link>https://pro.politico.eu/news/226988</link>
@@ -15,6 +383,14 @@
       <description>29 Oct 2026 - Pro Alert - By Abby Wallace</description>
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/29/GettyImages-2193250859.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Turning Canada into Europe’s quarry</title>
+      <link>https://pro.politico.eu/news/226987</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/226987</guid>
+      <description>30 Oct 2026 - Pro Newsletter - By Zia Weise</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
     </item>
     <item>
       <title>Kanada tritt EU-Supercomputer-Netzwerk bei</title>
