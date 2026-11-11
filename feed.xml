@@ -6,8 +6,32 @@
     <title>POLITICO Pro Articles</title>
     <link>https://pro.politico.eu/</link>
     <description>Articles collected from POLITICO Pro metadata</description>
-    <lastBuildDate>Wed, 11 Nov 2026 08:01:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 11:00:22 +0000</lastBuildDate>
     <language>en</language>
+    <item>
+      <title>Russia violates Moldovan airspace with 2 missiles</title>
+      <link>https://pro.politico.eu/news/227668</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227668</guid>
+      <description>11 Nov 2026 - By Daria Zakharova</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://politico.com/dims4/default/resize/1316/quality/90/format/webp?url=https://static.politico.com/e4/ea566549f54c92/be66d76e1831466c-7888x5504.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>EU unveils major overhaul of consumer rules</title>
+      <link>https://pro.politico.eu/news/227667</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227667</guid>
+      <description>11 Nov 2026 - Pro Alert - By Eliza Gkritsi</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Former FDA head accuses Trump administration of bowing to industry</title>
+      <link>https://pro.politico.eu/news/227666</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227666</guid>
+      <description>11 Nov 2026 - Pro Article - By Lauren Gardner, Sophia Cai</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/11/GettyImages-2258345556-scaled.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Good COP, bad COP</title>
       <link>https://pro.politico.eu/news/227665</link>
