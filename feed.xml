@@ -6,8 +6,80 @@
     <title>POLITICO Pro Articles</title>
     <link>https://pro.politico.eu/</link>
     <description>Articles collected from POLITICO Pro metadata</description>
-    <lastBuildDate>Wed, 11 Nov 2026 11:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 14:00:28 +0000</lastBuildDate>
     <language>en</language>
+    <item>
+      <title>‘Systemic’ sexual misconduct in German armed forces, study finds</title>
+      <link>https://pro.politico.eu/news/227677</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227677</guid>
+      <description>11 Nov 2026 - Pro Article - By Chris Lunday</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/11/GettyImages-2246474958.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Russia arrests 2 people accused of spying for Poland</title>
+      <link>https://pro.politico.eu/news/227676</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227676</guid>
+      <description>11 Nov 2026 - By Daria Zakharova</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://politico.com/dims4/default/resize/1316/quality/90/format/webp?url=https://static.politico.com/a4/56c3a5608d42be/9dcc93017dc8e8a0-4979x3215.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Sachverständigenrat warnt vor Krankenkassenbeiträgen von fast 20 Prozent</title>
+      <link>https://pro.politico.eu/news/227675</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227675</guid>
+      <description>11 Nov 2026 - Pro Alert - By Louis Westendarp</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Von der Leyens Klimabotschaft aus Antalya</title>
+      <link>https://pro.politico.eu/news/227674</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227674</guid>
+      <description>11 Nov 2026 - Pro Newsletter - By Oliver Noyan</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Burnham promises 10-year plan before Christmas recess</title>
+      <link>https://pro.politico.eu/news/227673</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227673</guid>
+      <description>11 Nov 2026 - Pro Alert - By Noah Keate</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/11/GettyImages-2303024983-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Don’t weaken electric vehicle targets, top UK energy boss tells ministers</title>
+      <link>https://pro.politico.eu/news/227672</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227672</guid>
+      <description>11 Nov 2026 - Pro Article - By Charlie Cooper</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/11/GettyImages-2299858134.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>US to seek Putin’s ‘blessing’ for Europe to join Ukraine talks</title>
+      <link>https://pro.politico.eu/news/227671</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227671</guid>
+      <description>11 Nov 2026 - By Tim Ross</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/11/GettyImages-2303993674-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>US charges three individuals with plotting attack on UK air base</title>
+      <link>https://pro.politico.eu/news/227670</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227670</guid>
+      <description>11 Nov 2026 - By Daria Zakharova</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://politico.com/dims4/default/resize/1316/quality/90/format/webp?url=https://static.politico.com/23/1a54ab5ffe49f7/9e9855420765707e-5516x3677.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>EU legt neue Regeln für Verbraucherschutz vor</title>
+      <link>https://pro.politico.eu/news/227669</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227669</guid>
+      <description>11 Nov 2026 - Pro Alert - By Eliza Gkritsi</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
     <item>
       <title>Russia violates Moldovan airspace with 2 missiles</title>
       <link>https://pro.politico.eu/news/227668</link>
