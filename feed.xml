@@ -6,8 +6,544 @@
     <title>POLITICO Pro Articles</title>
     <link>https://pro.politico.eu/</link>
     <description>Articles collected from POLITICO Pro metadata</description>
-    <lastBuildDate>Tue, 17 Nov 2026 08:39:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 11:00:24 +0000</lastBuildDate>
     <language>en</language>
+    <item>
+      <title>Irish regulator stops X training AI with data gathered by agents</title>
+      <link>https://pro.politico.eu/news/227985</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227985</guid>
+      <description>17 Nov 2026 - Pro Article - By Ellen O'Regan</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/17/GettyImages-2297232274-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>EU-Kommission genehmigt Kumulation deutscher Strompreissubventionen</title>
+      <link>https://pro.politico.eu/news/227984</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227984</guid>
+      <description>17 Nov 2026 - Pro Alert - By Tom Schmidtgen</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Worsening public finances overshadow EU growth</title>
+      <link>https://pro.politico.eu/news/227983</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227983</guid>
+      <description>17 Nov 2026 - Pro Article - By Bjarke Smith-Meyer</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/17/14450903-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Dokument: EU-Parlament und Rat wollen CBAM auf weitere Produkte ausweiten</title>
+      <link>https://pro.politico.eu/news/227982</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227982</guid>
+      <description>17 Nov 2026 - Pro Alert - By Tom Schmidtgen</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Germany poised to nominate Brunnermeier as ECB chief economist</title>
+      <link>https://pro.politico.eu/news/227981</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227981</guid>
+      <description>17 Nov 2026 - Pro Article - By Rasmus Buchsteiner</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/17/Belgaimage-140672728.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>EU court throws out privacy regulator’s challenge of Europol powers</title>
+      <link>https://pro.politico.eu/news/227980</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227980</guid>
+      <description>17 Nov 2026 - Pro Alert - By Laurens Cerulus, Ellen O'Regan</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Les Européens comptent sur la Chine pour garder les négociations climatiques sur la bonne voie</title>
+      <link>https://pro.politico.eu/news/227979</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227979</guid>
+      <description>17 Nov 2026 - Pro Article - By Zia Weise, Nicolas Camut</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/16/GettyImages-2304945597-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Russia hits 2 major Kyiv bridges in overnight strikes</title>
+      <link>https://pro.politico.eu/news/227978</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227978</guid>
+      <description>17 Nov 2026 - By Thibault Krause</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/17/GettyImages-2304608633-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>The World Is NEET Enough</title>
+      <link>https://pro.politico.eu/news/227977</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227977</guid>
+      <description>17 Nov 2026 - By Andrew McDonald</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>New year, new committee?</title>
+      <link>https://pro.politico.eu/news/227976</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227976</guid>
+      <description>17 Nov 2026 - Pro Newsletter - By James Fitzgerald, Eleanor Myers, Hannah Brenton, Elliot Gulliver-Needham</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Le Pen part en retraites</title>
+      <link>https://pro.politico.eu/news/227975</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227975</guid>
+      <description>17 Nov 2026 - By Élisa Bertholomey</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Trump will in China nun doch über die Ukraine sprechen</title>
+      <link>https://pro.politico.eu/news/227974</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227974</guid>
+      <description>17 Nov 2026 - Pro Newsletter - By Julius Brinkmann</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>COP31 : comment éviter de prendre le brouillon</title>
+      <link>https://pro.politico.eu/news/227973</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227973</guid>
+      <description>17 Nov 2026 - Pro Newsletter - By Arthur Nazaret</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>On Parliament’s dish: Prized satellite frequencies</title>
+      <link>https://pro.politico.eu/news/227972</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227972</guid>
+      <description>17 Nov 2026 - Pro Newsletter - By Mathieu Pollet</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>What the EU can learn from Mark Carney on digital sovereignty</title>
+      <link>https://pro.politico.eu/news/227971</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227971</guid>
+      <description>17 Nov 2026 - Pro Article - By Joakim Reiter, Vodafone Group Chief External and Corporate Affairs Officer</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/16/AdobeStock_1313870106-scaled.jpeg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Stromsteuer: Der Ankündigungskanzler will heute liefern</title>
+      <link>https://pro.politico.eu/news/227970</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227970</guid>
+      <description>17 Nov 2026 - By Hans von der Burchard</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El libro del jefe de Gabinete de Sánchez que explica la campaña del PSOE</title>
+      <link>https://pro.politico.eu/news/227969</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227969</guid>
+      <description>17 Nov 2026 - By Rafael Méndez</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>EU’s Kallas fights to find a role in Ukraine peace talks</title>
+      <link>https://pro.politico.eu/news/227968</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227968</guid>
+      <description>17 Nov 2026 - By Nicholas Vinocur</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/16/GettyImages-2299722566.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>5 takeaways from interview with Spanish election favorite Feijóo</title>
+      <link>https://pro.politico.eu/news/227967</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227967</guid>
+      <description>17 Nov 2026 - By Nacho Alarcón</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/16/GettyImages-2304381033.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>I took the EU selection test. Here’s how it went.</title>
+      <link>https://pro.politico.eu/news/227966</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227966</guid>
+      <description>17 Nov 2026 - By Sonja Rijnen</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/16/GettyImages-1145576919-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>The NGO funding saga continues</title>
+      <link>https://pro.politico.eu/news/227965</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227965</guid>
+      <description>17 Nov 2026 - Pro Newsletter - By Marianne Gros</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Unpacking Lithuania’s plans for health</title>
+      <link>https://pro.politico.eu/news/227964</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227964</guid>
+      <description>17 Nov 2026 - Pro Newsletter - By Emma Pirnay</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Strom(s)teuer</title>
+      <link>https://pro.politico.eu/news/227963</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227963</guid>
+      <description>17 Nov 2026 - Pro Newsletter - By Frederike Holewik</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Ukraine needs missiles, but Europe needs convincing</title>
+      <link>https://pro.politico.eu/news/227962</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227962</guid>
+      <description>17 Nov 2026 - Pro Newsletter - By Chris Lunday</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Brewing up Europe’s competitiveness</title>
+      <link>https://pro.politico.eu/news/227961</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227961</guid>
+      <description>16 Nov 2026 - Pro Article - By The Heineken Company</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/13/Europes-Living-Rooms_-Mark-Power-captures-a-captures-a-window-into-bar-and-pub-culture.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Accelerating the EU’s electric heavy-duty vehicle transition</title>
+      <link>https://pro.politico.eu/news/227960</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227960</guid>
+      <description>16 Nov 2026 - Pro Article - By Raluca Marian, general delegate of the permanent delegation to the EU, IRU</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/10/IMG_7443-scaled.jpeg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>French presidential rivals take aim at Le Pen in debate</title>
+      <link>https://pro.politico.eu/news/227959</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227959</guid>
+      <description>16 Nov 2026 - By Clea Caulcutt</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/17/GettyImages-2304968730-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Why the whole world is watching Nvidia</title>
+      <link>https://pro.politico.eu/news/227958</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227958</guid>
+      <description>16 Nov 2026 - By Jack Blanchard</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Brexit diminished us, Burnham says as he tees up closer EU ties</title>
+      <link>https://pro.politico.eu/news/227957</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227957</guid>
+      <description>16 Nov 2026 - By Isabel Loubser</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/16/GettyImages-2304980431-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Kallas fights for a role in Ukraine talks</title>
+      <link>https://pro.politico.eu/news/227956</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227956</guid>
+      <description>17 Nov 2026 - By Nicholas Vinocur</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Micallef urges dialogue after antitrust complaint against UEFA</title>
+      <link>https://pro.politico.eu/news/227955</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227955</guid>
+      <description>17 Nov 2026 - Pro Newsletter - By Aude van den Hove</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Growth and budget deficits</title>
+      <link>https://pro.politico.eu/news/227954</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227954</guid>
+      <description>17 Nov 2026 - Pro Newsletter - By Barbara Pianese</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>What Britain and the EU still don’t understand about each other</title>
+      <link>https://pro.politico.eu/news/227953</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227953</guid>
+      <description>16 Nov 2026 - Pro Article - By Jon Stone</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/16/GettyImages-2304267254-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Un pantouflage en or</title>
+      <link>https://pro.politico.eu/news/227952</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227952</guid>
+      <description>17 Nov 2026 - Pro Newsletter - By Paul de Villepin</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Nvidia board not weighing Huang’s return as CEO</title>
+      <link>https://pro.politico.eu/news/227951</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227951</guid>
+      <description>16 Nov 2026 - Pro Alert - By Owen Dahlkamp</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/16/GettyImages-2305325180-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Don’t let the sun go down on me</title>
+      <link>https://pro.politico.eu/news/227950</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227950</guid>
+      <description>17 Nov 2026 - Pro Newsletter - By Abby Wallace, Charlie Cooper, Nicholas Earl</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Reiche holt sich Hilfe beim Lieferkettenmonitoring</title>
+      <link>https://pro.politico.eu/news/227949</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227949</guid>
+      <description>17 Nov 2026 - Pro Newsletter - By Frida Preuß</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Brexit deal delays</title>
+      <link>https://pro.politico.eu/news/227948</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227948</guid>
+      <description>17 Nov 2026 - Pro Newsletter - By Jon Stone, Sophie Inge, Graham Lanktree, Caroline Hug</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Post-Brexit food deal faces another year of fermentation</title>
+      <link>https://pro.politico.eu/news/227947</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227947</guid>
+      <description>17 Nov 2026 - Pro Newsletter - By Agnes Rønberg</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>The CBAM kill-switch fight is on</title>
+      <link>https://pro.politico.eu/news/227946</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227946</guid>
+      <description>17 Nov 2026 - Pro Newsletter - By Ben Makuch</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>How to get robotaxis on Europe’s streets</title>
+      <link>https://pro.politico.eu/news/227945</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227945</guid>
+      <description>17 Nov 2026 - Pro Newsletter - By Martina Sapio</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Digitalminister auf Brüsseler Parkett</title>
+      <link>https://pro.politico.eu/news/227944</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227944</guid>
+      <description>17 Nov 2026 - Pro Newsletter - By Kilian Hocke</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>California sues OpenAI over rogue AI hack of Hugging Face</title>
+      <link>https://pro.politico.eu/news/227943</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227943</guid>
+      <description>16 Nov 2026 - Pro Article - By Aaron Mak, Chase DiFeliciantonio</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/16/GettyImages-2301208471-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Die Gematik-Pläne in der Primärversorgung</title>
+      <link>https://pro.politico.eu/news/227942</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227942</guid>
+      <description>17 Nov 2026 - Pro Newsletter - By Louis Westendarp</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>EU plans tariffs of up to 90% on Chinese cranes</title>
+      <link>https://pro.politico.eu/news/227941</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227941</guid>
+      <description>17 Nov 2026 - Pro Newsletter - By Camille Gijs</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Milburnt</title>
+      <link>https://pro.politico.eu/news/227940</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227940</guid>
+      <description>17 Nov 2026 - Pro Newsletter - By Joseph Bambridge</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Concurrence : l’UEFA et une fédération de grands clubs de football européens visées par une plainte</title>
+      <link>https://pro.politico.eu/news/227939</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227939</guid>
+      <description>16 Nov 2026 - Pro Article - By Ali Walker</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/16/GettyImages-519405414-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>UK hands Palantir two-year reprieve on NHS contract</title>
+      <link>https://pro.politico.eu/news/227938</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227938</guid>
+      <description>16 Nov 2026 - Pro Article - By Joseph Bambridge</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/16/GettyImages-2297798371-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>‘Vulnerable’ Ukraine steps up air defense pleas as Russia hardens stance in peace talks</title>
+      <link>https://pro.politico.eu/news/227937</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227937</guid>
+      <description>16 Nov 2026 - Pro Article - By Victor Jack</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/16/GettyImages-2281574224-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La DGSI vante son Palantir made in France</title>
+      <link>https://pro.politico.eu/news/227936</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227936</guid>
+      <description>17 Nov 2026 - Pro Newsletter - By Émile Marzolf</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Ciblée par l’extrême droite, l’Agence française de développement continue de miser sur le climat</title>
+      <link>https://pro.politico.eu/news/227935</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227935</guid>
+      <description>16 Nov 2026 - Pro Article - By Nicolas Camut</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/16/8992581-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>London Playbook PM: The soft launch</title>
+      <link>https://pro.politico.eu/news/227934</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227934</guid>
+      <description>16 Nov 2026 - By Emilio Casalicchio</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Commerce closes China’s backdoor to Nvidia chips after White House steps in</title>
+      <link>https://pro.politico.eu/news/227933</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227933</guid>
+      <description>16 Nov 2026 - Pro Article - By Ari Hawkins, Phelim Kine</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/16/GettyImages-2226702937-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Trump says he is not firing Lutnick</title>
+      <link>https://pro.politico.eu/news/227932</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227932</guid>
+      <description>16 Nov 2026 - Pro Alert - By Casey He</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/16/GettyImages-2300685405-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Grok bot gets blocked</title>
+      <link>https://pro.politico.eu/news/227931</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227931</guid>
+      <description>17 Nov 2026 - Pro Newsletter - By Sam Clark</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>5 countries announce plan to deport failed asylum-seekers to Rwanda</title>
+      <link>https://pro.politico.eu/news/227930</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227930</guid>
+      <description>16 Nov 2026 - By Hanne Cokelaere, Nektaria Stamouli</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/16/GettyImages-2304950131-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Europeans court China’s help to keep climate action on track</title>
+      <link>https://pro.politico.eu/news/227929</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227929</guid>
+      <description>16 Nov 2026 - Pro Article - By Zia Weise, Nicolas Camut</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/16/GettyImages-2304945597-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>UK-EU agrifood deal could be delayed until 2028</title>
+      <link>https://pro.politico.eu/news/227928</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227928</guid>
+      <description>16 Nov 2026 - Pro Article - By Jon Stone, Jordyn Dahl</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/16/GettyImages-2304264872-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Google says Russian speakers pulled off first-ever fully automated AI cyberattack</title>
+      <link>https://pro.politico.eu/news/227927</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227927</guid>
+      <description>16 Nov 2026 - Pro Alert - By Sam Clark</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/16/GettyImages-2005557968-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Entwurf des COP-Abkommens sieht „sofortigen“ Ausstieg aus fossilen Brennstoffen vor</title>
+      <link>https://pro.politico.eu/news/227926</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227926</guid>
+      <description>16 Nov 2026 - Pro Alert - By Zia Weise</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/16/GettyImages-2272272534-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Election favorite says Spain’s government is cooking the books</title>
+      <link>https://pro.politico.eu/news/227925</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227925</guid>
+      <description>16 Nov 2026 - By Nacho Alarcón</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Migraine: Europe’s invisible neurological epidemic</title>
+      <link>https://pro.politico.eu/news/227924</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227924</guid>
+      <description>16 Nov 2026 - Pro Article - By</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>AI agent companies aren’t all playing ball, regulators warn ministers</title>
+      <link>https://pro.politico.eu/news/227923</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227923</guid>
+      <description>16 Nov 2026 - Pro Alert - By Frank Hersey</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Un brouillon de la COP31 préconise une sortie “immédiate” des énergies fossiles</title>
+      <link>https://pro.politico.eu/news/227922</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227922</guid>
+      <description>16 Nov 2026 - Pro Alert - By Zia Weise</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/16/GettyImages-2272272534-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>European Parliament would back UK rejoining the EU, says senior lawmaker</title>
+      <link>https://pro.politico.eu/news/227921</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227921</guid>
+      <description>16 Nov 2026 - By Esther Webber, Jon Stone</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/16/GettyImages-2304110567-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Draft COP31 text suggests ‘immediate’ fossil fuel transition</title>
+      <link>https://pro.politico.eu/news/227920</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227920</guid>
+      <description>16 Nov 2026 - Pro Alert - By Zia Weise</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/16/GettyImages-2272272534-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Document: Council and Parliament can’t agree on CBAM ‘kill-switch’</title>
+      <link>https://pro.politico.eu/news/227919</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/227919</guid>
+      <description>16 Nov 2026 - Pro Alert - By Ben Makuch, Tom Schmidtgen</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
     <item>
       <title>Finanzministerium will „keine finanzpolitischen Experimente“ bei Stromsteuer</title>
       <link>https://pro.politico.eu/news/227918</link>
