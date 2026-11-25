@@ -6,8 +6,136 @@
     <title>POLITICO Pro Articles</title>
     <link>https://pro.politico.eu/</link>
     <description>Articles collected from POLITICO Pro metadata</description>
-    <lastBuildDate>Wed, 25 Nov 2026 11:01:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 14:00:37 +0000</lastBuildDate>
     <language>en</language>
+    <item>
+      <title>US threatens double-digit tariffs on EU, China, 12 others</title>
+      <link>https://pro.politico.eu/news/228510</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/228510</guid>
+      <description>25 Nov 2026 - Pro Article - By Daniel Desrochers, Oliver Ward, Ari Hawkins</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/25/GettyImages-2287741946-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Parlament verabschiedet EU-Vorschriften für kritische Arzneimittel</title>
+      <link>https://pro.politico.eu/news/228509</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/228509</guid>
+      <description>25 Nov 2026 - Pro Alert - By Claudia Chiappa</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>The EU’s showdown over next big budget — live updates</title>
+      <link>https://pro.politico.eu/news/228508</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/228508</guid>
+      <description>25 Nov 2026 - By POLITICO</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/23/EUCO-liveblog-December.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>EU-Parlament verabschiedet lange erwartetes Arzneimittelpaket</title>
+      <link>https://pro.politico.eu/news/228507</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/228507</guid>
+      <description>25 Nov 2026 - Pro Alert - By Emma Pirnay</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>France looks to move military bases next to defense companies to help fend off threats</title>
+      <link>https://pro.politico.eu/news/228506</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/228506</guid>
+      <description>25 Nov 2026 - Pro Alert - By</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Parliament clears 7 EU budget files for negotiations</title>
+      <link>https://pro.politico.eu/news/228505</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/228505</guid>
+      <description>25 Nov 2026 - Pro Alert - By Aude van den Hove</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/25/GettyImages-2306252601.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Sánchez to skip EU summit before Spanish election</title>
+      <link>https://pro.politico.eu/news/228504</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/228504</guid>
+      <description>25 Nov 2026 - By Max Griera, Gregorio Sorgi</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/25/GettyImages-2306193037-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>He’s coming home: Catalan leader Puigdemont plans return to Spain</title>
+      <link>https://pro.politico.eu/news/228503</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/228503</guid>
+      <description>25 Nov 2026 - By Aitor Hernández-Morales</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/25/GettyImages-2298289376.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Right-wing majority votes to speed up environmental permitting rules for industry</title>
+      <link>https://pro.politico.eu/news/228502</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/228502</guid>
+      <description>25 Nov 2026 - Pro Alert - By Marianne Gros</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Von der Leyen: Energy ceasefire would show Putin is serious about peace talks</title>
+      <link>https://pro.politico.eu/news/228501</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/228501</guid>
+      <description>25 Nov 2026 - Pro Article - By Max Griera</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/25/GettyImages-2306252441-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Europe must fast-track defense buildup to prepare for fewer US troops, Norway says</title>
+      <link>https://pro.politico.eu/news/228500</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/228500</guid>
+      <description>25 Nov 2026 - Pro Article - By Victor Jack</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/25/GettyImages-2299286645.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>EU Parliament finally adopts pharma package</title>
+      <link>https://pro.politico.eu/news/228499</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/228499</guid>
+      <description>25 Nov 2026 - Pro Alert - By Emma Pirnay</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Parliament adopts EU’s critical medicines rules</title>
+      <link>https://pro.politico.eu/news/228498</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/228498</guid>
+      <description>25 Nov 2026 - Pro Alert - By Claudia Chiappa</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.politico.eu/images/og-image.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Ukraine’s raid in Libya damaged more than a Russian warship</title>
+      <link>https://pro.politico.eu/news/228497</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/228497</guid>
+      <description>25 Nov 2026 - By Jamie Dettmer</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/24/GettyImages-2147740284-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>EU Commission failed to deliver cage ban, court finds</title>
+      <link>https://pro.politico.eu/news/228496</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/228496</guid>
+      <description>25 Nov 2026 - Pro Article - By Agnes Rønberg</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/25/GettyImages-895561208-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>‘COP is a joke’: Backlash grows after failed climate talks</title>
+      <link>https://pro.politico.eu/news/228495</link>
+      <guid isPermaLink="false">https://pro.politico.eu/news/228495</guid>
+      <description>25 Nov 2026 - Pro Article - By Zack Colman, Charlie Cooper</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.politico.eu/cdn-cgi/image/width=1316,height=714,fit=cover,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/25/GettyImages-2306042836-scaled.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>UK regulators loosen rules on crisis-linked banking practice</title>
       <link>https://pro.politico.eu/news/228494</link>
